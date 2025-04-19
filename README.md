@@ -1,5 +1,9 @@
 ## Pipeline de Dados E-commerce
 
+<p align="center">
+  <img src=".img/capa.png" alt="Diagrama do Pipeline de Dados" width="600">
+</p>
+
 ![Badge Concluído](https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-success?style=for-the-badge&color=4CAF50)
 ## 📌 Visão Geral
 
